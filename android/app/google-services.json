@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463330443273",
+    "project_id": "authfirebase-898cc",
+    "storage_bucket": "authfirebase-898cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463330443273:android:825da4143d200c5559b8d8",
+        "android_client_info": {
+          "package_name": "com.example.lognsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVzZIccpIu8k7RrtTZ60nu_4R-Qi-vuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
